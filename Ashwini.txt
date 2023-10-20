@@ -1,0 +1,3 @@
+Hello User!
+This is Ashwini Shenoy B.
+I am 1st semester cs student. I am learning Github today.
